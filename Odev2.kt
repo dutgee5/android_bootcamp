@@ -72,6 +72,7 @@ fun main(){
 
     println("Ucret : ${kotaMiktari(100)}")
 
+
 }
 
 
